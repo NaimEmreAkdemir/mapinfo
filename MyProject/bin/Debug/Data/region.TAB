@@ -1,0 +1,14 @@
+!table
+!version 300
+!charset WindowsTurkish
+
+Definition Table
+  Type NATIVE Charset "WindowsTurkish"
+  Fields 2
+    tip Char (40) ;
+    adi Char (40) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "ab9475c0-d9a8-4d93-8b92-a778832b72de"
+end_metadata

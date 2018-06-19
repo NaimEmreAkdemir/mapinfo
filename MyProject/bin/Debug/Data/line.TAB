@@ -1,0 +1,22 @@
+!table
+!version 300
+!charset WindowsTurkish
+
+Definition Table
+  Type NATIVE Charset "WindowsTurkish"
+  Fields 9
+    line Char (40) ;
+    tip Char (40) ;
+    adi Char (40) ;
+    xstart Char (40) ;
+    ystart Char (40) ;
+    xend Char (40) ;
+    yend Char (40) ;
+    ilksehir Char (40) ;
+    sonsehir Char (40) ;
+ReadOnly
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "ea270fb3-19b9-4064-a126-290e3d83d745"
+end_metadata

@@ -1,0 +1,85 @@
+!Workspace
+!Version  950
+!Charset WindowsTurkish
+Open Table "Data\Ilceler" As Ilceler Interactive
+Open Table "Data\Iller" As Iller Interactive
+Open Table "Data\point" As point Interactive
+Open Table "Data\region" As region Interactive
+Open Table "C:\Users\Emre\Desktop\Basarsoft Test Ýþlemleri\2\MiDataTr\Bolum_3\Yerlesim" As Yerlesim Interactive
+Open Table "Data\line" As line Interactive
+Open Table "C:\Users\Emre\Desktop\Basarsoft Test Ýþlemleri\Stajyer Test Tablolalarý\ABONE" As ABONE Interactive
+Open Table "C:\Users\Emre\Desktop\Basarsoft Test Ýþlemleri\Stajyer Test Tablolalarý\BINA" As BINA Interactive
+Map From ABONE,point,line,BINA,region,Ilceler,Iller,Yerlesim 
+  Position (0.0520833,0.0520833) Units "in"
+  Width 7.03125 Units "in" Height 3.41667 Units "in" 
+Set Window FrontWindow() ScrollBars Off Autoscroll On Enhanced On Smooth Image High
+Set Map
+  CoordSys Earth Projection 1, 104
+  Center (32.38728193,37.92967506)
+  Zoom 1631.700113 Units "km"
+  Preserve Zoom Display Zoom
+  Distance Units "km" Area Units "sq km" XY Units "degree"
+Set Map
+  Layer 1
+    Display Off
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line Arrow Position Right Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With ABONE_NO
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 2
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line Arrow Position Right Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With point
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 3
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line Arrow Position Above Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With line
+      Parallel On Auto Off Overlap Off Duplicates Off Offset 2
+      Visibility On
+  Layer 4
+    Display Off
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line None Position Center Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With BINA_ADI
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 5
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line None Position Center Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With tip
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 6
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line None Position Center Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With IlceAdi
+      Parallel On Auto On Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 7
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line None Position Center Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With IL_ADI
+      Parallel On Auto On Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 8
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line Arrow Position Right Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With IL_ADI
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+Set Window FrontWindow() Printer
+ Name "Canon LBP6020" Orientation Portrait Copies 1
+ Papersize 9
+Set Window MapBasic
+  Position (0.125,4.53125) Units "in"
+  Width 9.60417 Units "in" Height 1.375 Units "in" 
+Open Window MapBasic

@@ -1,0 +1,48 @@
+D:\VisualProjects\MyProject\MyProject\bin\Debug\MyProject.exe.config
+D:\VisualProjects\MyProject\MyProject\bin\Debug\MyProject.exe
+D:\VisualProjects\MyProject\MyProject\bin\Debug\MyProject.pdb
+D:\VisualProjects\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+D:\VisualProjects\MyProject\MyProject\obj\Debug\Interop.MapInfo.dll
+D:\VisualProjects\MyProject\MyProject\obj\Debug\MyProject.csproj.ResolveComReference.cache
+D:\VisualProjects\MyProject\MyProject\obj\Debug\MyProject.Form1.resources
+D:\VisualProjects\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+D:\VisualProjects\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+D:\VisualProjects\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+D:\VisualProjects\MyProject\MyProject\obj\Debug\MyProject.exe
+D:\VisualProjects\MyProject\MyProject\obj\Debug\MyProject.pdb
+D:\VisualProjects\MyProject\MyProject\obj\Debug\MyProject.cizgiCiz.resources
+D:\VisualProjects\MyProject\MyProject\obj\Debug\MyProject.NoktaAt.resources
+D:\VisualProjects\MyProject\MyProject\obj\Debug\MyProject.region.resources
+C:\Users\Emre\Desktop\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\Emre\Desktop\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\Emre\Desktop\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\Emre\Desktop\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\MyProject\MyProject\obj\Debug\Interop.MapInfo.dll
+C:\Users\Emre\Desktop\MyProject\MyProject\obj\Debug\MyProject.csproj.ResolveComReference.cache
+C:\Users\Emre\Desktop\MyProject\MyProject\obj\Debug\MyProject.Form1.resources
+C:\Users\Emre\Desktop\MyProject\MyProject\obj\Debug\MyProject.cizgiCiz.resources
+C:\Users\Emre\Desktop\MyProject\MyProject\obj\Debug\MyProject.noktaAt.resources
+C:\Users\Emre\Desktop\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\Emre\Desktop\MyProject\MyProject\obj\Debug\MyProject.region.resources
+C:\Users\Emre\Desktop\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\Emre\Desktop\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\Emre\Desktop\MyProject\MyProject\obj\Debug\MyProject.infolist.resources
+C:\Users\Emre\Desktop\MyProject\MyProject\obj\Debug\MyProject.frminfoclick.resources
+C:\Users\Emre\Desktop\MyProject\MyProject\obj\Debug\MyProject.iller.resources
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\obj\Debug\Interop.MapInfo.dll
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\obj\Debug\MyProject.csproj.ResolveComReference.cache
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\obj\Debug\MyProject.Form1.resources
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\obj\Debug\MyProject.cizgiCiz.resources
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\obj\Debug\MyProject.iller.resources
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\obj\Debug\MyProject.infolist.resources
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\obj\Debug\MyProject.noktaAt.resources
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\obj\Debug\MyProject.region.resources
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\obj\Debug\MyProject.exe
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\obj\Debug\MyProject.pdb
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\bin\Debug\MyProject.exe
+C:\Users\Emre\Desktop\MyProject - Kopya (2)\MyProject\bin\Debug\MyProject.pdb
